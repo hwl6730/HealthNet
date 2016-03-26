@@ -1,0 +1,6 @@
+Location of Unit Test Code:
+
+All modules contained a file entitled "tests.py" that details the unit test
+for that module. To run all of the test, navigate to the "HealthNet" folder 
+via command-line, and type "python manage.py test". This run all units in 
+all modules.
